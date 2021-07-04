@@ -1,2 +1,1 @@
-# hello
-asa
+write hellow world code in c.
